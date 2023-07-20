@@ -3,7 +3,7 @@ Projeto para praticar o desenvolvimento de uma pagina responsiva, utilizando boo
 
 Ajustes no layout:
 
-[x] Botao do navbar toggle
+[x] Botao do navbar toggle 
 [] menu mudar para cor branca
 [] Finalizar conteudos e footer
 [] Realizar carrousel
