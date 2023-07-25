@@ -7,3 +7,5 @@ Ajustes no layout:
 [] menu mudar para cor branca
 [] Finalizar conteudos e footer
 [] Realizar carrousel
+
+LINK DO PROJETO: https://patinesluis.github.io/Clone-Spotify/
