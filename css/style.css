@@ -8,6 +8,7 @@ body{
 
 html,body, #home{
     height: 100%;
+    overflow-x: hidden;
 }
 
 .navbar-nav {
@@ -51,6 +52,18 @@ h1{
     color: white;
 }
 
+h2{
+    font-size: 3em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+}
+
+h3{
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+}
+
 .btn-custom{
     color: white;
     border-radius: 500px;
@@ -76,6 +89,43 @@ h1{
     background-color: #000000;
     color: white;
 }
+
+#servicos{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#recursos{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.albuns{
+    padding: 10px 0;
+}
+
+.conteudoServico h2, h3 {
+    color: #7c25f8;
+}
+
+.conteudoRecursos h2 {
+    color: white;
+}
+
+.conteudoRecursos h3 {
+    color: #9bf0e1;
+}
+
+.conteudoRecursos p {
+    color: white;
+}
+
+.rotacionar{
+    transform: rotate(35deg);
+    padding-left: 35px;
+}
+
 
 
 
