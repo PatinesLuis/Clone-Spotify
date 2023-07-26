@@ -6,6 +6,7 @@ body{
     font-family:Helvetica, Arial, sans-serif;
 }
 
+
 html,body, #home{
     height: 100%;
     overflow-x: hidden;
@@ -126,7 +127,36 @@ h3{
     padding-left: 35px;
 }
 
+footer{
+    background-color: #000000;
+    padding: 50px 0 20px 0;
+    position: relative;
+}
 
+footer h4{
+    color: #919696;
+    font-size: 0.8em;
+    text-transform: uppercase;
+}
+
+footer .navbar-nav a{
+    color: white;
+    font-size: 0.8em;
+    text-decoration: none;
+}
+
+footer .navbar-nav a:hover{
+    color: #9bf0e1;
+}
+
+footer ul{
+    list-style: none;
+}
+
+footer ul li{
+    float: right;
+    margin: 0 5px;
+}
 
 
 
